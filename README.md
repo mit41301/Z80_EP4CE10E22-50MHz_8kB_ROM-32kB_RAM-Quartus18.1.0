@@ -15,7 +15,7 @@ Embedded Multiplier 9-bit elements	0 / 46 ( 0 % )
 ```
 ## PIN ASSIGNMENT
 ```
-clk	    Input	  PIN_23	
+clk	Input  PIN_23	
 leds[7]	Output	PIN_106		
 leds[6]	Output	PIN_105		
 leds[5]	Output	PIN_104		
@@ -25,6 +25,6 @@ leds[2]	Output	PIN_100
 leds[1]	Output	PIN_99	
 leds[0]	Output	PIN_98	
 n_reset	Input	  PIN_7	
-rxd1	  Input	  PIN_137	
-txd1	  Output	PIN_141	
+rxd1 Input  PIN_137	
+txd1 Output	 PIN_141	
 ```
