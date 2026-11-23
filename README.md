@@ -44,3 +44,9 @@ GND - JP2 10
 ### RESET 
 RESET - n_reset - Switch S0 PIN_7
 
+```
+Z80 BASIC Ver 4.7b
+Copyright (C) 1978 by Microsoft
+32435 Bytes free
+Ok
+```
