@@ -28,3 +28,19 @@ n_reset	Input	  PIN_7
 rxd1 Input  PIN_137	
 txd1 Output	 PIN_141	
 ```
+## USB-TTL CH341T
+<img width="1250" height="1250" alt="image" src="https://github.com/user-attachments/assets/547885e7-5d0c-456a-b6ed-a1d74f707f09" />
+
+RXD - JP2 1  
+TXD - JP2 2  
+GND - JP2 10  
+
+**Select TTL**  
+**Select 3V3**  
+
+## POWER & CONFIGURATION
+**USB PORT**  
+5V, D+, D-, GND  
+### RESET 
+RESET - n_reset - Switch S0 PIN_7
+
